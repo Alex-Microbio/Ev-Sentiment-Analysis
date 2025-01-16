@@ -70,3 +70,6 @@ Calculates and visualizes important terms for positive and negative sentiments u
 ## Contributing
 Feel free to fork and submit pull requests to improve sentiment analysis or visualizations.
 
+## License
+This project is licensed under the MIT License.
+
